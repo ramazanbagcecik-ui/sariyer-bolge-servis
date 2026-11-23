@@ -1,2 +1,2 @@
 # sariyer-bolge-servis
-Sarıyer Bölge Servis - Jet Teknik Servis | Sarıyer İstanbul Beyaz Eşya Teknik Servisi
+Sariyer Bolge Servis - Jet Teknik Servis | Sariyer İstanbul Beyaz Eşya Teknik Servisi
